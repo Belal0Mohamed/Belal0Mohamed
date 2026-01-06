@@ -59,7 +59,7 @@ I believe that **simplicity is a form of mastery**.
 
 <p align="left">
   <!-- LinkedIn (opens profile + clear intent) -->
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/belal-mohamed-0535363a3" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" width="40"/>
   </a>
   <!-- Instagram DM (direct messages) -->
