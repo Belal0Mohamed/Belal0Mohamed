@@ -1,11 +1,7 @@
-<h1 align="center">Hi, I'm Belal Mohamed 😉</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi,+I'm+Belal+Mohamed;I'm+Full+Stack+Developer" alt="Typing SVG" />
+</h1>
 
-<p align="center">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemp4aG05NGFzN2NhNHN4NXQzbDg4YWtqcWlzYWVhZWQ5YmNpazkzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MPOp0rmUUEKfcvFckS/giphy.gif" width="260" />
-<img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&width=420&lines=Full+Stack+Developer;Student+Of+Life;Quality+over+Quantity" />
-</p>
-
----
 
 ## 🧠 About Me
 
@@ -54,6 +50,7 @@ I believe that **simplicity is a form of mastery**.
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://streak-stats.demolab.com?user=Belal0Mohamed&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="150" alt="GitHub Streak" />
 </p>
+
 
 ---
 ## 🌐 Connect With Me
