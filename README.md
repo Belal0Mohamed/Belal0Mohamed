@@ -56,7 +56,10 @@ I believe that **simplicity is a form of mastery**.
 
 ## 📊 GitHub Stats
 
-[![Belal0Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Belal0Mohamed)](https://github.com/Belal0Mohamed/github-readme-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Belal0Mohamed&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+
 ---
 ## 🌐 Connect With Me
 
