@@ -46,18 +46,17 @@ I believe that **simplicity is a form of mastery**.
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Belal0Mohamed&theme=aura&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+  <img src="https://streak-stats.demolab.com?user=Belal0Mohamed&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Belal0Mohamed&theme=onedark&column=7" alt="github profile trophy" />
+  </a>
 </p>
 
 
