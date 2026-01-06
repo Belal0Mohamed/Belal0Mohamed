@@ -57,10 +57,7 @@ I believe that **simplicity is a form of mastery**.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Belal0Mohamed&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Belal0Mohamed)](https://github.com/Belal0Mohamed/github-profile-trophy)
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Belal0Mohamed&theme=aura&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 </p>
 
 
