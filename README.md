@@ -50,11 +50,11 @@ I believe that **simplicity is a form of mastery**.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Belal0Mohamed&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</p>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Belal0Mohamed&show_icons=true&theme=tokyonight" height="150" style="margin: 5px;" />
+  
+  <img src="https://streak-stats.demolab.com?user=Belal0Mohamed&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="150" style="margin: 5px;" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Belal0Mohamed&show_icons=true&theme=dark&hide_border=false" alt="Belal's GitHub stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Belal0Mohamed&theme=onedark&rank=S,AAA&column=1" height="150" style="margin: 5px;" />
 </p>
 
 ---
