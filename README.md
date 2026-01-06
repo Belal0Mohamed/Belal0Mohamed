@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi,+I'm+Belal+Mohamed;I'm+Full+Stack+Developer" alt="Typing SVG" />
 </h1>
 
+<br>
+
 
 ## 🧠 About Me
 
