@@ -54,9 +54,7 @@ I believe that **simplicity is a form of mastery**.
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Belal0Mohamed&theme=onedark&column=7" alt="github profile trophy" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Belal0Mohamed&theme=onedark&margin-w=15" alt="trophy" />
 </p>
 
 
