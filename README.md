@@ -56,17 +56,7 @@ I believe that **simplicity is a form of mastery**.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Belal0Mohamed&label=profile%20views&color=0d1117&style=flat" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Belal0Mohamed&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=Belal0Mohamed&theme=github-dark&hide_border=true&cache_seconds=86400" />
-</p>
+![Belal0Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Belal0Mohamed&show_icons=true&theme=radical)
 
 ---
 ## 🌐 Connect With Me
