@@ -37,13 +37,6 @@ I believe that **simplicity is a form of mastery**.
 
 ---
 
-## ✨ Quote
-
-> ***“Simplicity is not about removing complexity,  
-> it’s about removing confusion.”***
-
----
-
 
 ## 📊 GitHub Stats
 
@@ -55,27 +48,6 @@ I believe that **simplicity is a form of mastery**.
 
 
 ---
-## 🌐 Connect With Me
-
-<p align="left">
-  <!-- LinkedIn (opens profile + clear intent) -->
-  <a href="https://www.linkedin.com/in/belal-mohamed-0535363a3" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" width="40"/>
-  </a>
-  <!-- Instagram DM (direct messages) -->
-  <a href="https://ig.me/m/_belal.404" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="40"/>
-  </a>
-  <!-- Gmail (prefilled email) -->
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=belal2mohamed50@gmail.com&su=Contact%20from%20GitHub&body=Name:%0AEmail:%0AReason%20for%20contact:%0A%0AMessage:%0A" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Email" width="40"/>
-  </a>
-  <!-- Facebook Messenger (direct chat) -->
-  <a href="https://m.me/profile.php?id=61585791857536?ref=Contact%20from%20GitHub%20Profile" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/facebook-messenger.png" alt="Messenger" width="40"/>
-  </a>
-</p>
-<br>
 <p align="center">
  <img src="https://img.shields.io/badge/Status-Online%20•%20Building%20Projects%20•%20Learning%20Always-0d1117?style=for-the-badge&logo=github&logoColor=58A6FF" />
 </p>
